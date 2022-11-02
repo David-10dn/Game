@@ -1,4 +1,7 @@
 read data from input
 add continents
 add more continents
+<<<<<<< HEAD
 ignore case
+=======
+>>>>>>> parent of fbc33d7... removed again
