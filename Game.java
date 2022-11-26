@@ -37,5 +37,7 @@ public class Game {
 	    e.printStackTrace();
 	}
 	System.out.println("You scored  " + correct+ " out of  " + total);
+
+	System.out.println("New line");
     }
 }
