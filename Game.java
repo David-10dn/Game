@@ -39,5 +39,6 @@ public class Game {
 	System.out.println("You scored  " + correct+ " out of  " + total);
 
 	System.out.println("New line");
+	System.out.println("Time to eat");
     }
 }
